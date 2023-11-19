@@ -1,0 +1,16 @@
+Chương trình quản lý công việc cá nhân gồm:
+- Lịch học
+	- Lịch học
+	- Lịch kiểm tra
+- Lịch đi làm
+	- Lịch đi làm
+	- Lịch checklist
+- Số lượng đơn giao hàng
+	- Thông tin chi tiết từng đơn hàng
+	- Bảng số lượng thông tin mỗi ngày giao hàng
+- Tiền lương ước lượng
+	- Tiền lương
+	- Tiền giao hàng
+	- Tip, other
+
+Đây là chương trình chỉ phục vụ cho mục đích của bản thân tôi

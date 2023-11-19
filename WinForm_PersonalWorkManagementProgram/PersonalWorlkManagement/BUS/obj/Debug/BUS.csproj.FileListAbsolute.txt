@@ -1,0 +1,15 @@
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\bin\Debug\BUS.dll.config
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\bin\Debug\BUS.dll
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\bin\Debug\DAO.dll
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\bin\Debug\EntityFramework.dll
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\bin\Debug\DAO.pdb
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\bin\Debug\DAO.dll.config
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\bin\Debug\EntityFramework.xml
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\obj\Debug\BUS.dll
+C:\Users\admin\OneDrive\Desktop\WinForm_PersonalWorkManagementProgram\PersonalWorlkManagement\BUS\obj\Debug\BUS.pdb
