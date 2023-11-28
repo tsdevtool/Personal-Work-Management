@@ -58,6 +58,7 @@
     <Compile Include="DATA\Delivery.cs" />
     <Compile Include="DATA\LoaiDonHang.cs" />
     <Compile Include="DATA\Salary.cs" />
+    <Compile Include="DATA\Shedule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

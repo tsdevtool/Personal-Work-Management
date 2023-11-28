@@ -75,6 +75,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -91,7 +92,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Image\" />
+    <None Include="Image\after.png" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BUS\BUS.csproj">
@@ -102,6 +103,27 @@
       <Project>{4d1b414e-c7cf-4477-bd91-07943dee6224}</Project>
       <Name>DAO</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\before.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\icoHome.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\redo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\timeTable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\filter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\icons8-update-30.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
